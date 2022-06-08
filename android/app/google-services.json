@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "101513764297",
+    "project_id": "dijilla-f205e",
+    "storage_bucket": "dijilla-f205e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:101513764297:android:21b27462ff2f56077b9c18",
+        "android_client_info": {
+          "package_name": "com.example.dihillah"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "101513764297-sopued2j9cdnj74pl650h2vetes1hlbg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBoSMcsTpFjz6jZRcSfAcgTF0Sj3OwAk1o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "101513764297-sopued2j9cdnj74pl650h2vetes1hlbg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
